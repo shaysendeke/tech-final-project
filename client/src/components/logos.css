@@ -1,0 +1,20 @@
+.logos img {
+  width: 100px;
+  height: 100px;
+  margin: 75px;
+  box-shadow: 5px 10px #888888;
+}
+
+.logos img:hover{
+    width: 125px;
+    height: 125px;
+    transition: 2.5s;
+}
+
+.about {
+    border: solid black 1.5px;
+    filter:drop-shadow(5px, 5px black); 
+    padding: 20px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

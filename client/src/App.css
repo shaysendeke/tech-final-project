@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #f5f5db;
 }
 
 .App-logo {
@@ -35,4 +36,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+button {
+  font-size: calc(10px +0.5vmin);
 }

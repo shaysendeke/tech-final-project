@@ -1,0 +1,13 @@
+.heading {
+    /* background-color: brown; */
+    margin-top: 20px;
+    font-family: fantasy;
+}
+.recommend{
+    border-radius: 22.5%;
+    /* display: flex; */
+    /* border: solid lightgrey 1px; */
+    margin-left: 16.3%;
+    margin-right: 16.3%;
+
+}

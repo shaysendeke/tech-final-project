@@ -1,0 +1,58 @@
+[
+    {
+      "id": "1",
+      "name": "American Airlines",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012013/americanairlines_0.png?itok=Vu0GT_Ue",
+      "link": "https://www.aa.com/i18n/index.jsp?locale=en_IL"
+    },
+    {
+      "id": "2",
+      "name": "Delta Airlines",
+      "logo": "https://content.delta.com/content/www/us/en.damAssetRender.20211110T1419424440500.html/content/dam/delta_homepage_redesign/Logo/Delta-Logo.svg",
+      "link": "https://www.delta.com/"
+    },
+    {
+      "id": "3",
+      "name": "United Airlines",
+      "logo": "https://www.united.com/8ea0b8c6d5c3fab39bb81ad99f8f0fc8.svg",
+      "link": "https://www.united.com/en/il"
+    },
+    {
+      "id": "4",
+      "name": "Waldorf Astoria",
+      "logo": "https://www.hilton.com/modules/assets/svgs/logos/shop/WA.svg",
+      "link": "https://www.hilton.com/en/waldorf-astoria/"
+    },
+    {
+      "id": "5",
+      "name": "Hilton Hotels",
+      "logo": "https://www.hilton.com/modules/assets/svgs/logos/shop/WW.svg",
+      "link": "https://www.hilton.com/en/"
+    },
+    {
+      "id": "6",
+      "name": "Four Seasons",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0008/2906/brand.gif?itok=3hPZI3oY",
+      "link": "https://www.fourseasons.com/"
+    },
+    {
+      "id": "7",
+      "name": "Avis Car Rental",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/0758/brand.gif?itok=9Bt7pW2o",
+      "link": "https://www.avis.com/en/locations/us"
+    },
+    {
+      "id": "8",
+      "name": "Hertz",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052013/hertz.png?itok=xkOOpJGm",
+      "link": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/0765/brand.gif?itok=HXTOK1aU"
+    },
+  
+   {
+      "id": "9",
+      "name": "Budget Cars",
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092018/untitled-3_19.png?g92esUot1AnBvLMOqsVdxXBxtCbjDFxI&itok=lfsRHqOd",
+      "link": "https://www.budget.com/en/home"
+    }
+  ]
+  

@@ -1,18 +1,17 @@
 var express = require('express');
+const {
+  addContact
+} = require('../utils')
 
 var router = express.Router();
 
 /* GET users listing. */
-router.get('/', function(req, res, next) {
-  const users = [{
-    "id": 1,
-    "name": "John Doe"
-  },
-  {
-    "id": 2,
-    "name": "Jane Doe"
-  }];
-  res.send(users);
-});
+router.post("/contacts", (req, res)=> {
+  addContact(req, res)
+})
+
+router.post("/purchases", (req, res)=> {
+  addContact(req, res)
+})
 
 module.exports = router;

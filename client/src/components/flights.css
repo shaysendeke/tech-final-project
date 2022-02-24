@@ -1,0 +1,21 @@
+.flights  img{
+    width: 100px;
+    height: 100px;
+    margin:auto
+}
+
+.flights {
+text-align: center;
+display: grid;
+grid-template-columns: repeat(3, 30%);
+grid-gap: 10px;
+justify-content: space-evenly;
+padding: 10px;
+}
+
+.flightDiv{
+    border: lightgrey solid 0.5px;
+    box-shadow: #C3D2BF 5px 5px;
+
+
+}
